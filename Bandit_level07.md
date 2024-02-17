@@ -1,6 +1,10 @@
-#Ennoncé
+# Bandit 7
+
+## Ennoncé
 
 The password for the next level is stored in the file data.txt next to the word millionth
+
+## Solution
 
 Pour commencer nous nous connectons au serveur ssh encore une fois!
 
@@ -15,4 +19,6 @@ Comme dis dans l'énnoncé le mdp est situé a coté du mot millionth, nous allo
 
 Voilà nous avons obtenue le mdp de l'user bandit8 
 
-TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+	TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+GAS ! GAS ! GAS to the next LEVEL !!
