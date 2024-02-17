@@ -1,8 +1,10 @@
-#Ennoncé
+# Ennoncé
 
 The password for the next level is stored in a file called spaces in this filename located in the home directory
 
-Pour se level nous nous connectons en ssh avec l'username bandit2 et le mdp obtenue précédement
+## Solution
+
+Pour ce level nous nous connectons en ssh avec l'username bandit2 et le mdp obtenue précédement
 	
 	ssh bandit2@bandit.labs.overthewire.org -p 2220
 	rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
@@ -17,3 +19,5 @@ cette petite commande vas nous permettre de nous affichées le contenue du fichi
 mdp:
 	
 	aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+Et bravo nous pouvons aller au prochain niveau ^^
