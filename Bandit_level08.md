@@ -1,5 +1,9 @@
-#Ennoncé
+# Bandit 8
+
+## Ennoncé
 The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
+
+## Solution
 
 Nous commencons par nous connecter par ssh sur le serveur
 
@@ -26,8 +30,11 @@ Nous pouvons donc améliorer notre recherche avec un grep
     (espace après le 1): Recherche un espace après le chiffre 1.
 
 Nous obtenons donc 
-	
+
 	1 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 nous avons le mdp de l'user bandit9 !
-EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+	EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+Mais wow aussi vite vous tricher non ?!
