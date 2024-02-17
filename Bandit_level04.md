@@ -1,6 +1,10 @@
-#Ennoncé
+# Bandit 4
+
+## Ennoncé
 
 The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
+
+## Solution
 
 Nous nous connectons au serveur avec le ssh sur le serveur
 
@@ -10,13 +14,17 @@ Nous nous connectons au serveur avec le ssh sur le serveur
 Dans ce level nous avons plusieurs fichiers présent dans le dossier inhere.
 Nous pouvons soit cat chaque fichiers car il y en a 10 mais nous pouvons aussi faire une autre méthode car nous savons que le fichier que l'on recherche est le seul a être Human-Readable
 
-file ./-file*
+	file ./-file*
 
-Avec cette commande nous allons demander de voirce que sont les différents fichiers nommé -file
+Avec cette commande nous allons demander de voir ce que sont les différents fichiers nommé -file
 
 Nous voyons que un fichier utilise un ascii text.
 Nous allons donc le cat car il est le seul que nous pouvons lire 
 
-cat ./-file007
-lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+	cat ./-file007
 
+Return du file007
+
+	lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+Bravo on passe au lvl 5 !! Ez pz!
